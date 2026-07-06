@@ -1,6 +1,6 @@
 # Conditions Générales d'Utilisation — Lights On Me
 
-**Version 1.0 — En vigueur à compter du [DATE À COMPLÉTER]**
+**Version 1.0 — En vigueur à compter du 6 juillet 2026**
 
 ---
 
@@ -162,6 +162,6 @@ Le fait pour l'Éditeur de ne pas se prévaloir d'un manquement de l'Utilisateur
 
 ---
 
-**Date de la dernière mise à jour : [DATE]**
+**Date de la dernière mise à jour : 6 juillet 2026**
 
 **Version : 1.0**

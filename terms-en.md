@@ -1,6 +1,6 @@
 # Terms of Service — Lights On Me
 
-**Version 1.0 — Effective from [DATE TO BE COMPLETED]**
+**Version 1.0 — Effective from July 6, 2026**
 
 ---
 
@@ -162,6 +162,6 @@ The Provider's failure to invoke a breach by the User shall not be interpreted a
 
 ---
 
-**Date of last update: [DATE]**
+**Date of last update: July 6, 2026**
 
 **Version: 1.0**
