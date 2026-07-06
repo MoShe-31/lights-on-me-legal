@@ -153,7 +153,7 @@ Avant toute action contentieuse, l'Utilisateur est invité à contacter l'Édite
 
 Pour toute question relative aux présentes CGU, l'Utilisateur peut contacter l'Éditeur :
 
-- Par email : **[contact@coach-me.app — À CONFIRMER]**
+- Par email : **[timo3190@gmail.com — À CONFIRMER]**
 - Par courrier : **[ADRESSE COMPLÈTE]**
 
 ## 19. Dispositions diverses

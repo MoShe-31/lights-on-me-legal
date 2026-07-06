@@ -153,7 +153,7 @@ Before any litigation, the User is invited to contact the Provider by email in o
 
 For any question relating to these Terms, the User may contact the Provider:
 
-- By email: **[contact@coach-me.app — TO BE CONFIRMED]**
+- By email: **[timo3190@gmail.com — TO BE CONFIRMED]**
 - By mail: **[FULL ADDRESS]**
 
 ## 19. Miscellaneous
