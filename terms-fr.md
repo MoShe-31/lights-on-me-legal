@@ -1,4 +1,4 @@
-# Conditions Générales d'Utilisation — Coach Me
+# Conditions Générales d'Utilisation — Lights On Me
 
 **Version 1.0 — En vigueur à compter du [DATE À COMPLÉTER]**
 
@@ -8,13 +8,13 @@
 
 ## 1. Objet
 
-Les présentes Conditions Générales d'Utilisation (les « CGU ») régissent l'accès et l'utilisation de l'application mobile **Coach Me** (l'« Application »), éditée par **[NOM DE LA SOCIÉTÉ / PERSONNE PHYSIQUE]**, dont le siège est à **[ADRESSE COMPLÈTE]** (ci-après l'« Éditeur »).
+Les présentes Conditions Générales d'Utilisation (les « CGU ») régissent l'accès et l'utilisation de l'application mobile **Lights On Me** (l'« Application »), éditée par **[NOM DE LA SOCIÉTÉ / PERSONNE PHYSIQUE]**, dont le siège est à **[ADRESSE COMPLÈTE]** (ci-après l'« Éditeur »).
 
 L'Application propose un service de coaching personnel et de bien-être assisté par intelligence artificielle, accessible à toute personne majeure (l'« Utilisateur »).
 
 ## 2. Définitions
 
-- **Application** : l'application mobile Coach Me, disponible sur iOS et Android.
+- **Application** : l'application mobile Lights On Me, disponible sur iOS et Android.
 - **Service** : l'ensemble des fonctionnalités proposées par l'Application, notamment les séances de coaching vocal, les programmes structurés, le journal personnel et les outils de réflexion.
 - **IA de coaching** : le système d'intelligence artificielle générative qui anime les séances et produit les retours personnalisés.
 - **Utilisateur** : toute personne physique majeure ayant créé un compte sur l'Application.
@@ -28,7 +28,7 @@ En cas de désaccord avec tout ou partie des CGU, l'Utilisateur doit s'abstenir 
 
 ## 4. Description du Service
 
-Coach Me propose à l'Utilisateur :
+Lights On Me propose à l'Utilisateur :
 
 - Des **séances vocales de réflexion personnelle** guidées par une IA de coaching.
 - Des **programmes thématiques** de 30 jours sur différents axes de développement personnel (gestion du stress, confiance en soi, relations, etc.).
@@ -37,7 +37,7 @@ Coach Me propose à l'Utilisateur :
 
 ## 5. Nature du Service — Limites importantes
 
-**Coach Me est un outil de développement personnel et de bien-être. Ce n'est ni un service médical, ni un service psychologique professionnel.**
+**Lights On Me est un outil de développement personnel et de bien-être. Ce n'est ni un service médical, ni un service psychologique professionnel.**
 
 L'Utilisateur reconnaît expressément que :
 

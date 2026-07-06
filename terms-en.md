@@ -1,4 +1,4 @@
-# Terms of Service — Coach Me
+# Terms of Service — Lights On Me
 
 **Version 1.0 — Effective from [DATE TO BE COMPLETED]**
 
@@ -8,13 +8,13 @@
 
 ## 1. Purpose
 
-These Terms of Service (the "Terms") govern access to and use of the **Coach Me** mobile application (the "App"), published by **[COMPANY NAME / NATURAL PERSON]**, with its registered office at **[FULL ADDRESS]** (hereinafter the "Provider").
+These Terms of Service (the "Terms") govern access to and use of the **Lights On Me** mobile application (the "App"), published by **[COMPANY NAME / NATURAL PERSON]**, with its registered office at **[FULL ADDRESS]** (hereinafter the "Provider").
 
 The App offers an AI-assisted personal coaching and wellbeing service, accessible to any adult person (the "User").
 
 ## 2. Definitions
 
-- **App**: the Coach Me mobile application, available on iOS and Android.
+- **App**: the Lights On Me mobile application, available on iOS and Android.
 - **Service**: all features offered by the App, including voice coaching sessions, structured programs, personal journaling and reflection tools.
 - **Coaching AI**: the generative artificial intelligence system that powers the sessions and produces personalized feedback.
 - **User**: any natural person of legal age who has created an account on the App.
@@ -28,7 +28,7 @@ If the User disagrees with all or part of the Terms, they must refrain from usin
 
 ## 4. Description of the Service
 
-Coach Me offers the User:
+Lights On Me offers the User:
 
 - **Voice-based personal reflection sessions** guided by a coaching AI.
 - **Thematic 30-day programs** on various personal development areas (stress management, self-confidence, relationships, etc.).
@@ -37,12 +37,12 @@ Coach Me offers the User:
 
 ## 5. Nature of the Service — Important Limitations
 
-**Coach Me is a personal development and wellbeing tool. It is neither a medical service nor a professional psychological service.**
+**Lights On Me is a personal development and wellbeing tool. It is neither a medical service nor a professional psychological service.**
 
 The User expressly acknowledges that:
 
 1. **The AI is not a therapist.** It does not provide any diagnosis, does not treat any pathology, and in no way replaces a medical, psychological or psychiatric consultation.
-2. **The App is not a medical device** within the meaning of Regulation (EU) 2017/745, FDA regulations or any equivalent regulation.
+2. **The App is not a medical device** within the meaning of Regulation (EU) 2017/745, any medical device regulator's regulations or any equivalent regulation.
 3. **The AI may produce inaccurate information.** Generative models may occasionally formulate responses that are imprecise, incomplete, or even incorrect ("hallucinations"). The User agrees to exercise their own judgment and not to consider AI-generated feedback as professional advice.
 4. **The App is not an emergency service.** In case of acute psychological distress, suicidal thoughts, or any situation endangering the life or integrity of the User or a third party, the User must **immediately** contact emergency services (112 in Europe, 911 in the USA/Canada) or a qualified healthcare professional.
 

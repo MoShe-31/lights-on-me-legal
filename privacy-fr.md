@@ -1,11 +1,11 @@
-Politique de Confidentialité — Coach Me 30
-Dernière mise à jour : 10 juin 2026
+Politique de Confidentialité — Lights On Me
+Dernière mise à jour : 6 juillet 2026
 
 1. Qui sommes-nous
-L'application Coach Me 30 (ci-après "l'Application") est éditée à titre individuel par :
+L'application Lights On Me (ci-après "l'Application") est éditée à titre individuel par :
 [VOTRE NOM] [VOTRE ADRESSE COMPLÈTE] 1XXX Genève, Suisse
 Email de contact : timo3190@gmail.com
-L'Application est en phase bêta privée. Elle propose un accompagnement vocal pour l'exploration du bien-être personnel. Coach Me 30 n'est pas un service médical, psychologique ou thérapeutique. Elle ne remplace en aucun cas une consultation avec un professionnel de santé.
+L'Application est en phase bêta privée. Elle propose un accompagnement vocal pour l'exploration du bien-être personnel. Lights On Me n'est pas un service médical, psychologique ou thérapeutique. Elle ne remplace en aucun cas une consultation avec un professionnel de santé.
 
 2. Données que nous collectons
 2.1 Données de compte
@@ -21,15 +21,18 @@ L'Application est en phase bêta privée. Elle propose un accompagnement vocal p
 	•	Durée de chaque session, nombre de mots prononcés
 	•	Si vous avez écouté votre feedback, si vous avez choisi une question d'approfondissement
 	•	Évaluations émotionnelles que vous donnez aux feedbacks reçus (😞 / 😐 / 😊)
+	•	Vos réponses au questionnaire de bien-être WHO-5 (5 questions, Organisation Mondiale de la Santé), proposées à certaines étapes du parcours : utilisées uniquement comme signal interne pour adapter l'accompagnement, jamais affichées sous forme de score
 2.4 Données dérivées (générées automatiquement par l'IA)
 	•	Résumés de session
+	•	Résumés hebdomadaires (relecture qualitative de votre semaine)
 	•	Profil dynamique (synthèse de votre parcours mis à jour toutes les 5 sessions)
 	•	Détection de contenu sensible (mots-clés signalant une détresse, pour proposer des ressources de soutien)
 2.5 Données techniques
 	•	Rapports d'erreurs et de plantage (via Sentry, sans données personnelles)
 	•	Langue de l'application
-2.6 Audio temporaire
-Vos enregistrements audio sont transmis temporairement pour transcription, puis immédiatement supprimés après obtention du texte. Aucun fichier audio n'est conservé sur nos serveurs.
+2.6 Enregistrements audio
+Les enregistrements de vos sessions vocales (séances, cap du jour, expression libre) sont transmis temporairement pour transcription, puis immédiatement supprimés une fois le texte obtenu : ils ne sont jamais conservés.
+Deux fonctionnalités optionnelles conservent en revanche un fichier audio, parce que leur valeur est de réentendre votre propre voix : la lettre vocale que vous vous adressez au début d'un programme (révélée à la fin du programme) et les clips « savourer un moment ». Ces fichiers sont stockés chez notre hébergeur (région Zurich), protégés par les mêmes contrôles d'accès que le reste de vos données, jamais transcrits ni analysés, réécoutables par vous seul(e), et supprimés avec votre compte (les clips de savoring sont en outre supprimés à l'issue de leur fenêtre de réécoute hebdomadaire).
 
 3. À quoi servent vos données
 Finalité
@@ -54,7 +57,7 @@ Rôle
 Localisation des données
 Garanties
 Supabase Inc.
-Base de données (compte, sessions, transcriptions textuelles)
+Base de données et stockage (compte, sessions, transcriptions textuelles, fichiers audio conservés)
 Zurich, Suisse
 LPD suisse + RGPD
 Anthropic PBC
@@ -88,14 +91,16 @@ Après suppression de compte
 Suppression immédiate et définitive (effacement automatique de toutes les tables liées au compte au moment de la demande)
 Rapports techniques anonymisés (Sentry)
 30 jours maximum
-Transcriptions audio (fichiers vocaux)
-Jamais conservées (suppression immédiate après transcription textuelle)
-Données dérivées (résumés, profil dynamique)
+Enregistrements audio des sessions vocales
+Jamais conservés (suppression immédiate après transcription textuelle)
+Fichiers audio conservés (lettre vocale de début de programme, clips « savourer un moment »)
+Jusqu'à la suppression de votre compte ; les clips de savoring sont en outre supprimés à l'issue de leur fenêtre de réécoute hebdomadaire
+Données dérivées (résumés de session, résumés hebdomadaires, profil dynamique)
 Liées à votre compte, mêmes durées
 Preuve de consentement aux CGU et à la présente Politique
 10 ans à compter de l'acceptation, y compris après suppression du compte
 Journal de sécurité des détections de crise
-Conservé sans limite de durée, y compris après suppression du compte (catégorie + extrait de 200 caractères max + langue). Base légale : art. 9, par. 2, point h) et art. 17, par. 3, point e) du RGPD (protection des personnes, défense de droits en justice). Journal techniquement inaltérable ; suppression possible uniquement sur décision judiciaire.
+Conservé sans limite de durée, y compris après suppression du compte (catégorie + extrait de 200 caractères max + langue). Base légale : art. 9, par. 2, point h) et art. 17, par. 3, point e) du RGPD (protection des personnes, défense de droits en justice). Journal techniquement inaltérable ; suppression possible uniquement sur décision judiciaire. Vous pouvez demander la consultation des entrées qui vous concernent en écrivant à l'adresse de contact (droit d'accès, article 15 du RGPD).
 Exception au droit à l'effacement : la trace de votre acceptation des Conditions d'utilisation et de la présente Politique est conservée dans un journal distinct et inaltérable, même après suppression de votre compte. Ce journal contient uniquement : adresse e-mail, identifiant interne (UUID), date et heure d'acceptation, version des documents acceptés, adresse IP et User-Agent. Base légale : article 17, paragraphe 3, point e) du RGPD — conservation nécessaire à la défense de droits en justice. Durée : 10 ans (prescription ordinaire en droit suisse, article 127 du Code des obligations). Le journal est techniquement inaltérable et inaccessible aux utilisateurs comme aux employés ; sa suppression n'est possible que sur décision judiciaire ou erreur manifeste documentée.
 Suspension en cas de litige : si un litige formel est en cours (plainte déposée, procédure judiciaire ou demande d'une autorité), la suppression des données concernées peut être suspendue le temps de la procédure, conformément à l'article 17, paragraphe 3, point e) du RGPD.
 
@@ -104,7 +109,7 @@ Conformément au RGPD et à la LPD suisse, vous disposez à tout moment des droi
 	•	Droit d'accès : obtenir une copie de toutes vos données
 	•	Droit de rectification : corriger des informations inexactes
 	•	Droit à l'effacement ("droit à l'oubli") : supprimer votre compte et toutes vos données
-	•	Droit à la portabilité : recevoir vos données dans un format lisible (JSON)
+	•	Droit à la portabilité : recevoir vos données dans un format lisible (JSON ; vos fichiers audio conservés sont fournis via des liens de téléchargement)
 	•	Droit d'opposition : refuser certains traitements fondés sur l'intérêt légitime
 	•	Droit de limitation : geler le traitement de vos données dans certains cas
 	•	Droit de retirer votre consentement à tout moment
@@ -124,7 +129,7 @@ Nous mettons en œuvre les mesures suivantes pour protéger vos données :
 Aucun système n'étant infaillible, nous vous engageons à utiliser un mot de passe fort et unique.
 
 8. Détection de contenu sensible
-Pour votre sécurité, l'Application analyse les transcriptions de vos sessions afin de détecter des signaux de détresse aiguë (idées suicidaires, automutilation, violences subies, addictions sévères). En cas de détection :
+Pour votre sécurité, l'Application analyse le texte de vos partages (transcriptions de vos sessions vocales, textes que vous saisissez) afin de détecter des signaux de détresse aiguë (idées suicidaires, automutilation, violences subies, addictions sévères). En cas de détection :
 	•	Au lieu d'un feedback IA, l'Application affiche un message de soutien et des ressources d'urgence vérifiées (numéros d'aide professionnelle 24/7 selon votre pays)
 	•	Une détection anonymisée est journalisée à des fins de sécurité et d'amélioration du dispositif (catégorie + extrait de 200 caractères max + langue, sans autres données identifiantes que votre identifiant interne)
 Aucun contact humain externe n'est déclenché automatiquement. Vous restez seul(e) décideur(se) de la suite à donner. En cas de danger imminent, contactez immédiatement les services d'urgence (112 en Europe, 911 en Amérique du Nord, 143 La Main Tendue en Suisse).
