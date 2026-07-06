@@ -68,6 +68,10 @@ Deepgram Inc.
 Transcription vocale temporaire
 États-Unis
 Clauses Contractuelles Types UE
+Resend Inc.
+Envoi des emails de compte (confirmation, réinitialisation de mot de passe)
+Envoi depuis l'UE (Irlande) ; société établie aux États-Unis
+Clauses Contractuelles Types UE
 Sentry (Functional Software Inc.)
 Rapports de bugs (sans données personnelles)
 Allemagne (region UE)

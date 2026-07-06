@@ -68,6 +68,10 @@ Deepgram Inc.
 Temporary voice transcription
 United States
 EU Standard Contractual Clauses
+Resend Inc.
+Account email delivery (confirmation, password reset)
+Sending from the EU (Ireland); company established in the United States
+EU Standard Contractual Clauses
 Sentry (Functional Software Inc.)
 Bug reports (no personal data)
 Germany (EU region)
