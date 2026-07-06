@@ -2,8 +2,6 @@
 
 **Version 1.0 — En vigueur à compter du [DATE À COMPLÉTER]**
 
-> ⚠️ **DOCUMENT BROUILLON.** Ce texte est un point de départ rédigé à titre informatif. Il n'a **pas** été validé par un avocat. Avant de l'utiliser en production, fais-le réviser par un professionnel du droit spécialisé en numérique / santé numérique (Suisse, France ou pays de domiciliation de la société éditrice).
-
 ---
 
 ## 1. Objet
@@ -153,7 +151,7 @@ Avant toute action contentieuse, l'Utilisateur est invité à contacter l'Édite
 
 Pour toute question relative aux présentes CGU, l'Utilisateur peut contacter l'Éditeur :
 
-- Par email : **[timo3190@gmail.com — À CONFIRMER]**
+- Par email : **timo3190@gmail.com**
 - Par courrier : **[ADRESSE COMPLÈTE]**
 
 ## 19. Dispositions diverses

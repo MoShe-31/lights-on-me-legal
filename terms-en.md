@@ -2,8 +2,6 @@
 
 **Version 1.0 — Effective from [DATE TO BE COMPLETED]**
 
-> ⚠️ **DRAFT DOCUMENT.** This text is a starting point provided for informational purposes. It has **not** been validated by a lawyer. Before using it in production, have it reviewed by a legal professional specializing in digital products / digital health (in your country of operation).
-
 ---
 
 ## 1. Purpose
@@ -153,7 +151,7 @@ Before any litigation, the User is invited to contact the Provider by email in o
 
 For any question relating to these Terms, the User may contact the Provider:
 
-- By email: **[timo3190@gmail.com — TO BE CONFIRMED]**
+- By email: **timo3190@gmail.com**
 - By mail: **[FULL ADDRESS]**
 
 ## 19. Miscellaneous
