@@ -4,12 +4,12 @@ Public legal documents for the Lights On Me app (private beta).
 
 ## Documents
 
-- [Privacy Policy (Français)](https://moshe-31.github.io/lights-on-me-legal/privacy-fr.html)
-- [Privacy Policy (English)](https://moshe-31.github.io/lights-on-me-legal/privacy-en.html)
-- [Terms of Service (Français)](https://moshe-31.github.io/lights-on-me-legal/terms-fr.html)
-- [Terms of Service (English)](https://moshe-31.github.io/lights-on-me-legal/terms-en.html)
-- [Supprimer votre compte / Delete your account (FR)](https://moshe-31.github.io/lights-on-me-legal/delete-account-fr.html)
-- [Delete your account (EN)](https://moshe-31.github.io/lights-on-me-legal/delete-account-en.html)
+- [Privacy Policy (Français)](https://lightsonme.app/privacy-fr.html)
+- [Privacy Policy (English)](https://lightsonme.app/privacy-en.html)
+- [Terms of Service (Français)](https://lightsonme.app/terms-fr.html)
+- [Terms of Service (English)](https://lightsonme.app/terms-en.html)
+- [Supprimer votre compte / Delete your account (FR)](https://lightsonme.app/delete-account-fr.html)
+- [Delete your account (EN)](https://lightsonme.app/delete-account-en.html)
 
 ## Contact
 

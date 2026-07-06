@@ -36,7 +36,7 @@ All data linked to your account is erased immediately and permanently:
 
 ## What is retained (legal exceptions)
 
-In accordance with our [Privacy Policy](https://moshe-31.github.io/lights-on-me-legal/privacy-en.html) (section 5):
+In accordance with our [Privacy Policy](https://lightsonme.app/privacy-en.html) (section 5):
 
 - **Proof of acceptance of the Terms and Privacy Policy**: retained for 10 years (Article 17(3)(e) GDPR; Article 127 of the Swiss Code of Obligations).
 - **Crisis detection safety log**: retained without time limit (Articles 9(2)(h) and 17(3)(e) GDPR). It contains only: category, excerpt of 200 characters maximum, language.

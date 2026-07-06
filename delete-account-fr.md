@@ -36,7 +36,7 @@ Toutes les données liées à votre compte sont effacées immédiatement et déf
 
 ## Ce qui est conservé (exceptions légales)
 
-Conformément à notre [Politique de Confidentialité](https://moshe-31.github.io/lights-on-me-legal/privacy-fr.html) (section 5) :
+Conformément à notre [Politique de Confidentialité](https://lightsonme.app/privacy-fr.html) (section 5) :
 
 - **Preuve d'acceptation des CGU et de la Politique de Confidentialité** : conservée 10 ans (article 17, paragraphe 3, point e) du RGPD ; article 127 du Code des obligations suisse).
 - **Journal de sécurité des détections de crise** : conservé sans limite de durée (articles 9(2)(h) et 17(3)(e) du RGPD). Il contient uniquement : catégorie, extrait de 200 caractères maximum, langue.
