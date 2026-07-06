@@ -1,0 +1,10 @@
+{
+  // Configuration Cloudflare : site statique servi tel quel, aucun build.
+  // Ce fichier désactive l'auto-détection (qui croyait à un site Jekyll
+  // à cause de _config.yml, reliquat GitHub Pages inoffensif).
+  "name": "lights-on-me-legal",
+  "compatibility_date": "2026-07-06",
+  "assets": {
+    "directory": "."
+  }
+}
