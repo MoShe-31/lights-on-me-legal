@@ -13,7 +13,7 @@ Public legal documents for the Lights On Me app (private beta).
 
 ## Contact
 
-For any legal or privacy question: timo3190@gmail.com
+For any legal or privacy question: contact@lightsonme.app
 
 ---
 

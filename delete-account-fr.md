@@ -17,7 +17,7 @@ La suppression est **immédiate et définitive**. Aucun délai de rétractation,
 
 Si vous n'avez plus l'application ou ne pouvez plus vous connecter :
 
-1. Écrivez à **timo3190@gmail.com** **depuis l'adresse email associée à votre compte**
+1. Écrivez à **contact@lightsonme.app** **depuis l'adresse email associée à votre compte**
 2. Objet : « Suppression de compte »
 
 Nous traitons la demande dans un délai maximum de 30 jours (généralement sous quelques jours). Si l'email ne provient pas de l'adresse du compte, une vérification d'identité pourra être demandée avant traitement.
@@ -44,6 +44,6 @@ Conformément à notre [Politique de Confidentialité](https://lightsonme.app/pr
 
 ---
 
-Pour toute question : **timo3190@gmail.com**
+Pour toute question : **contact@lightsonme.app**
 
 Dernière mise à jour : 6 juillet 2026

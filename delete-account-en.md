@@ -17,7 +17,7 @@ Deletion is **immediate and permanent**. No waiting period, no copy retained bey
 
 If you no longer have the app or can no longer sign in:
 
-1. Write to **timo3190@gmail.com** **from the email address associated with your account**
+1. Write to **contact@lightsonme.app** **from the email address associated with your account**
 2. Subject: "Account deletion"
 
 We process requests within a maximum of 30 days (usually within a few days). If the email does not come from the account address, an identity check may be required before processing.
@@ -44,6 +44,6 @@ In accordance with our [Privacy Policy](https://lightsonme.app/privacy-en.html) 
 
 ---
 
-For any question: **timo3190@gmail.com**
+For any question: **contact@lightsonme.app**
 
 Last updated: July 6, 2026

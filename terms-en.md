@@ -151,7 +151,7 @@ Before any litigation, the User is invited to contact the Provider by email in o
 
 For any question relating to these Terms, the User may contact the Provider:
 
-- By email: **timo3190@gmail.com**
+- By email: **contact@lightsonme.app**
 - By mail: **[FULL ADDRESS]**
 
 ## 19. Miscellaneous

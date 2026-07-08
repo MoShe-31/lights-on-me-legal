@@ -151,7 +151,7 @@ Avant toute action contentieuse, l'Utilisateur est invité à contacter l'Édite
 
 Pour toute question relative aux présentes CGU, l'Utilisateur peut contacter l'Éditeur :
 
-- Par email : **timo3190@gmail.com**
+- Par email : **contact@lightsonme.app**
 - Par courrier : **[ADRESSE COMPLÈTE]**
 
 ## 19. Dispositions diverses

@@ -4,7 +4,7 @@ Last updated: July 6, 2026
 1. Who we are
 The Lights On Me application (the "App") is operated as a sole proprietorship by:
 [YOUR NAME] [YOUR FULL ADDRESS] 1XXX Geneva, Switzerland
-Contact email: timo3190@gmail.com
+Contact email: contact@lightsonme.app
 The App is currently in private beta. It provides voice-based guidance for personal wellbeing exploration. Lights On Me is not a medical, psychological, or therapeutic service. It does not replace consultation with a qualified healthcare professional under any circumstances.
 
 2. Data we collect
@@ -117,7 +117,7 @@ Under GDPR and Swiss FADP, you have the following rights at any time:
 	•	Right to object: refuse certain processing based on legitimate interest
 	•	Right to restriction: freeze the processing of your data in certain cases
 	•	Right to withdraw consent at any time
-To exercise these rights, write to timo3190@gmail.com from the email address associated with your account. We will respond within a maximum of 30 days.
+To exercise these rights, write to contact@lightsonme.app from the email address associated with your account. We will respond within a maximum of 30 days.
 You may also lodge a complaint with:
 	•	FDPIC (Federal Data Protection and Information Commissioner) in Switzerland: edoeb.admin.ch
 	•	CNIL in France: cnil.fr
@@ -151,4 +151,4 @@ This policy may be updated to reflect legal, technical, or functional changes. T
 This policy is governed by Swiss law. For users residing in the European Union, the mandatory provisions of GDPR and national data protection laws apply additionally.
 Any dispute will fall under the jurisdiction of the courts of Geneva, Switzerland, subject to mandatory rules of jurisdiction applicable to consumers.
 
-For any question: timo3190@gmail.com
+For any question: contact@lightsonme.app
