@@ -1,0 +1,7 @@
+# Force HTML revalidation so each deploy is served fresh (no manual cache purge).
+# Images, icons and other static assets keep their normal caching.
+/
+  Cache-Control: no-cache
+
+/*.html
+  Cache-Control: no-cache
