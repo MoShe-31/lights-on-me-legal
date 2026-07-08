@@ -1,6 +1,6 @@
 # Force HTML revalidation so each deploy is served fresh (no manual cache purge).
 # Images, icons and other static assets keep their normal caching.
-/
+/fr
   Cache-Control: no-cache
 
 /en
