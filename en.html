@@ -21,7 +21,8 @@
 <meta name="twitter:title" content="Lights On Me: your voice coach for everyday wellbeing">
 <meta name="twitter:description" content="Five minutes a day, out loud. A coach that listens. Data stored in Switzerland, no ads.">
 <meta name="twitter:image" content="https://lightsonme.app/og-image.png">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='38' fill='%23C4956A'/%3E%3Ccircle cx='50' cy='50' r='16' fill='%23F7F1E5'/%3E%3C/svg%3E">
+<link rel="icon" type="image/png" sizes="64x64" href="/favicon.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <style>
   :root {
     --bg: #F7F1E5;
@@ -63,25 +64,13 @@
     max-width: 640px;
     margin: 0 auto;
   }
-  .dot {
-    width: 52px; height: 52px;
-    border-radius: 50%;
-    background: var(--brand);
-    position: relative;
+  .logo {
+    width: 92px; height: 92px;
+    border-radius: 22px;
     margin-bottom: 28px;
-    animation: breathe 4s ease-in-out infinite;
+    box-shadow: 0 6px 22px rgba(0,0,0,0.14);
+    display: block;
   }
-  .dot::after {
-    content: "";
-    position: absolute; inset: 16px;
-    border-radius: 50%;
-    background: var(--bg);
-  }
-  @keyframes breathe {
-    0%, 100% { transform: scale(1); }
-    50% { transform: scale(1.08); }
-  }
-  @media (prefers-reduced-motion: reduce) { .dot { animation: none; } }
   h1 {
     font-size: clamp(40px, 8vw, 64px);
     font-weight: 600;
@@ -163,7 +152,7 @@
 <body>
 <div class="lang"><a href="/fr" hreflang="fr">FR</a></div>
 <main>
-  <div class="dot" aria-hidden="true"></div>
+  <img class="logo" src="/logo.png" alt="Lights On Me" width="92" height="92">
   <h1 class="serif">Lights On Me</h1>
   <p class="tagline serif">Your voice coach for everyday wellbeing.</p>
   <p class="sub">Five minutes a day, out loud. 30-day programs and a coach that truly listens, powered by artificial intelligence. Free, no ads.</p>
