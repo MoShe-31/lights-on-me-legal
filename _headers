@@ -6,5 +6,17 @@
 /en
   Cache-Control: no-cache
 
+/de
+  Cache-Control: no-cache
+
+/it
+  Cache-Control: no-cache
+
+/es
+  Cache-Control: no-cache
+
+/pt
+  Cache-Control: no-cache
+
 /*.html
   Cache-Control: no-cache

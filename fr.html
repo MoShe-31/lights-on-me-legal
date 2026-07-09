@@ -8,6 +8,10 @@
 <link rel="canonical" href="https://lightsonme.app/fr">
 <link rel="alternate" hreflang="fr" href="https://lightsonme.app/fr">
 <link rel="alternate" hreflang="en" href="https://lightsonme.app/en">
+<link rel="alternate" hreflang="de" href="https://lightsonme.app/de">
+<link rel="alternate" hreflang="it" href="https://lightsonme.app/it">
+<link rel="alternate" hreflang="es" href="https://lightsonme.app/es">
+<link rel="alternate" hreflang="pt" href="https://lightsonme.app/pt">
 <link rel="alternate" hreflang="x-default" href="https://lightsonme.app/fr">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Lights On Me">
@@ -16,7 +20,6 @@
 <meta property="og:url" content="https://lightsonme.app/fr">
 <meta property="og:image" content="https://lightsonme.app/og-image.png">
 <meta property="og:locale" content="fr_FR">
-<meta property="og:locale:alternate" content="en_US">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Lights On Me : ton coach vocal pour le bien-être quotidien">
 <meta name="twitter:description" content="Cinq minutes par jour, à voix haute. Un coach qui écoute. Données stockées en Suisse, sans publicité.">
@@ -47,12 +50,51 @@
   .serif { font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif; }
   .lang {
     position: absolute;
-    top: 18px; right: 22px;
-    font-size: 14px;
-    z-index: 2;
+    top: 16px; right: 20px;
+    z-index: 3;
   }
-  .lang a { color: var(--brand-text); text-decoration: none; border-bottom: 1px solid var(--border); }
-  .lang a:hover { border-bottom-color: var(--brand-text); }
+  .lang summary {
+    list-style: none;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 7px 14px;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    background: var(--surface);
+    color: var(--brand-text);
+    font-size: 14px;
+    font-weight: 600;
+    user-select: none;
+  }
+  .lang summary::-webkit-details-marker { display: none; }
+  .lang .chev { font-size: 11px; transition: transform 0.2s ease; }
+  .lang[open] .chev { transform: rotate(180deg); }
+  .lang .menu {
+    position: absolute;
+    right: 0;
+    margin-top: 6px;
+    min-width: 150px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 6px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.10);
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+  .lang .menu a, .lang .menu .current {
+    display: block;
+    padding: 8px 12px;
+    border-radius: 8px;
+    font-size: 14px;
+    text-decoration: none;
+    color: var(--muted);
+  }
+  .lang .menu a:hover { background: var(--bg); color: var(--brand-text); }
+  .lang .menu .current { color: var(--brand-text); font-weight: 600; }
   main {
     flex: 1;
     display: flex;
@@ -128,11 +170,6 @@
     color: var(--muted);
     line-height: 1.5;
   }
-  .geo {
-    font-size: 14px;
-    color: var(--muted);
-    margin-bottom: 40px;
-  }
   .contact { font-size: 15px; color: var(--muted); }
   .contact a { color: var(--brand-text); text-decoration: none; border-bottom: 1px solid var(--border); }
   .contact a:hover { border-bottom-color: var(--brand-text); }
@@ -150,7 +187,17 @@
 </style>
 </head>
 <body>
-<div class="lang"><a href="/en" hreflang="en">EN</a></div>
+<details class="lang" aria-label="Langue">
+  <summary>Français <span class="chev" aria-hidden="true">▾</span></summary>
+  <div class="menu">
+    <span class="current">Français</span>
+    <a href="/en">English</a>
+    <a href="/de">Deutsch</a>
+    <a href="/it">Italiano</a>
+    <a href="/es">Español</a>
+    <a href="/pt">Português</a>
+  </div>
+</details>
 <main>
   <img class="logo" src="/logo.png" alt="Lights On Me" width="92" height="92">
   <h1 class="serif">Lights On Me</h1>
@@ -164,14 +211,13 @@
     </div>
     <div class="item">
       <span class="label">Zéro publicité</span>
-      <span class="desc">Gratuit, sans pub, et tes données ne sont jamais revendues.</span>
+      <span class="desc">Gratuit, sans pub, et tes données ne sont pas revendues.</span>
     </div>
     <div class="item">
       <span class="label">Ta voix reste à toi</span>
       <span class="desc">Les enregistrements de tes séances sont supprimés dès leur transcription.</span>
     </div>
   </div>
-  <p class="geo">D'abord à Genève, puis en Suisse romande.</p>
   <p class="contact">Une question ? <a href="mailto:contact@lightsonme.app">contact@lightsonme.app</a></p>
 </main>
 <footer>
@@ -179,9 +225,6 @@
     <a href="/privacy-fr.html">Confidentialité</a>
     <a href="/terms-fr.html">Conditions d'utilisation</a>
     <a href="/delete-account-fr.html">Supprimer son compte</a>
-    <a href="/en">English</a>
-    <a href="/privacy-en.html">Privacy (EN)</a>
-    <a href="/terms-en.html">Terms (EN)</a>
   </nav>
   <p class="disclaimer">Lights On Me est un outil de bien-être et de soutien personnel. Il ne remplace pas un suivi médical, psychologique ou thérapeutique professionnel.</p>
   <p>© 2026 Lights On Me · Genève</p>
