@@ -84,6 +84,10 @@ Google LLC
 Distribution Google Play
 États-Unis
 Clauses Contractuelles Types UE
+Intuition Machines, Inc. (hCaptcha)
+Protection anti-abus et vérification captcha à l'inscription et à la connexion
+États-Unis
+Clauses Contractuelles Types UE
 Aucune donnée n'est revendue à des tiers à des fins publicitaires.
 
 5. Durée de conservation

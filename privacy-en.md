@@ -84,6 +84,10 @@ Google LLC
 Google Play distribution
 United States
 EU Standard Contractual Clauses
+Intuition Machines, Inc. (hCaptcha)
+Anti-abuse protection and captcha verification at sign-up and sign-in
+United States
+EU Standard Contractual Clauses
 No data is sold to third parties for advertising purposes.
 
 5. Data retention
