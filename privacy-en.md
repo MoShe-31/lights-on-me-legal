@@ -30,6 +30,8 @@ The App is currently in private beta. It provides voice-based guidance for perso
 2.5 Technical data
 	•	Error and crash reports (via Sentry, no personal data attached)
 	•	App language
+	•	Usage data: app open and close times and usage duration, product journey events (sign-up, onboarding, session start) and the search text you type (capped at 60 characters). Used to understand and improve usage; kept in your space and deleted with your account.
+	•	AI usage logs: for each AI call, the model used, the number of tokens and the cost (never the content of your exchanges). Used for internal billing and abuse limiting.
 2.6 Audio recordings
 The recordings of your voice sessions (sessions, daily compass, free talk) are transmitted temporarily for transcription, then immediately deleted once the text is obtained: they are never retained.
 Two optional features do, however, retain an audio file, because their value lies in hearing your own voice again: the voice letter you record to yourself at the start of a programme (revealed at the end of the programme) and the "savor a moment" clips. These files are stored with our hosting provider (Zurich region), protected by the same access controls as the rest of your data, never transcribed or analyzed, playable only by you, and deleted with your account (savoring clips are additionally deleted at the end of their weekly replay window).

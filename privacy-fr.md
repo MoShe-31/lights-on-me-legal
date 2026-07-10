@@ -30,6 +30,8 @@ L'Application est en phase bêta privée. Elle propose un accompagnement vocal p
 2.5 Données techniques
 	•	Rapports d'erreurs et de plantage (via Sentry, sans données personnelles)
 	•	Langue de l'application
+	•	Données d'usage : horaires d'ouverture et de fermeture de l'application et durée d'utilisation, événements de parcours (inscription, onboarding, démarrage de session) et texte de recherche saisi (limité à 60 caractères). Servent à comprendre et améliorer l'usage ; conservées dans votre espace et supprimées avec votre compte.
+	•	Journaux de consommation IA : pour chaque appel à l'IA, le modèle utilisé, le nombre de jetons et le coût (jamais le contenu de vos échanges). Servent à la facturation interne et à limiter les abus.
 2.6 Enregistrements audio
 Les enregistrements de vos sessions vocales (séances, cap du jour, expression libre) sont transmis temporairement pour transcription, puis immédiatement supprimés une fois le texte obtenu : ils ne sont jamais conservés.
 Deux fonctionnalités optionnelles conservent en revanche un fichier audio, parce que leur valeur est de réentendre votre propre voix : la lettre vocale que vous vous adressez au début d'un programme (révélée à la fin du programme) et les clips « savourer un moment ». Ces fichiers sont stockés chez notre hébergeur (région Zurich), protégés par les mêmes contrôles d'accès que le reste de vos données, jamais transcrits ni analysés, réécoutables par vous seul(e), et supprimés avec votre compte (les clips de savoring sont en outre supprimés à l'issue de leur fenêtre de réécoute hebdomadaire).
